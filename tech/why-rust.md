@@ -9,7 +9,7 @@ So we only have only two choices of C/C++ or Rust.
 - Supporting WebAssembly well
 - Safe
 - Mature
-- Ease of use
+- Easy to use
 
 #### Compare C/C++, Rust
 Scores: 5 is best, 1 is worse.
