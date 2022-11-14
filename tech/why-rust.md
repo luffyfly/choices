@@ -18,7 +18,7 @@ Scores: 5 is best, 1 is worse.
 | --- | --- | --- | --- |
 | Performance | 5 | 5 | Both are low-level languages. |
 | WebAssembly | 3 | 5 | Rust supports wasm by their maintainer, but C/C++ supoorts wasm by the third party. |
-| Safety | 2 | 5 | Rust’s type system and ownership model guarantee memory-safety and thread-safety. C/C++'s pointers is not safe.|
+| Safety | 2 | 5 | Rust’s type system and ownership model guarantee memory-safety and thread-safety. C/C++'s pointers are not safe.|
 | Matureness | 5 | 5 | C/C++ has a long history and Rust has a great community. |
 | Ease of use | 4 | 2 | Rust is hard to learn. |
 
