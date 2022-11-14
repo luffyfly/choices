@@ -22,6 +22,6 @@ Scores: 5 is best, 1 is worse.
 | Matureness | 5 | 5 | C/C++ has a long history and Rust has a great community. |
 | Ease of use | 4 | 2 | Rust is hard to learn. |
 
-C/C++' score is 18 and Rust's score. is 22
+C/C++' score is 18 and Rust's score is 22
 
 For these reasons, we choose Rust as our programming language.
