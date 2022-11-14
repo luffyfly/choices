@@ -23,4 +23,4 @@ Score: 5 is best and 1 is worse.
 | Rust | 1 | 1 | 1 | 5 | 5 | We have chose Rust as our programming language.|
 | Total | 15 | 12 | 17 | 20 | 18 | |
 
-So we choose bevy as our engine.
+So we choose Bevy as our engine.
