@@ -12,7 +12,7 @@ So we only have only two choices of C/C++ or Rust.
 - Easy to use
 
 #### Compare C/C++ and Rust
-Scores: 5 is best, 1 is worse.
+Scores: 5 is best and 1 is worse.
 
 | Lang | C/C++ | Rust | Why|
 | --- | --- | --- | --- |
