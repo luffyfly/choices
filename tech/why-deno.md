@@ -6,7 +6,7 @@ With rust, wo have two choices for the js engine: Deno or Boa.
 | | Deno | Boa | Exlain |
 | --- | --- | --- | --- |
 | Matureness | 5 | 1 | The current version of Boa is 0.16 and not stable.  |
-| Api supporting | 5 | 2 | Deno supports fetch and file apis, and boa does not.  |
+| Api supporting | 5 | 2 | Deno supports fetch and WebWorker apis, and boa does not.  |
 | WebAssembly supporting | 5 | 1 | Deno supports wasm, and boa does not.  |
 | Debugging | 5 | 1 | Boa does not support debugging right now. |
 | Performance | 5 | 3 | Deno uses V8 which is very fast. |
