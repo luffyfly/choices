@@ -12,7 +12,7 @@ After doing some research, we have those choices: Unreal, Unity, GoDot, Bevy.
 
 #### Compare
 
-Score: 5 is best, 1 is worse.
+Score: 5 is best and 1 is worse.
 
 | | Unreal | Unity | GoDot | Bevy | Explain |
 | --- | --- | ---  | ---  | ---  |  ---  |
