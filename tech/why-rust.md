@@ -14,7 +14,7 @@ So we only have only two choices of C/C++ or Rust.
 #### Compare C/C++ and Rust
 Scores: 5 is best and 1 is worse.
 
-| Lang | C/C++ | Rust | Why|
+| Feature | C/C++ | Rust | Why|
 | --- | --- | --- | --- |
 | Performance | 5 | 5 | Both are low-level languages. |
 | WebAssembly | 3 | 5 | Rust supports wasm by their maintainer, but C/C++ supoorts wasm by the third party. |
