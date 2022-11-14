@@ -20,7 +20,7 @@ Score: 5 is best and 1 is worse.
 | Open | 3 | 1 | 5 | 5| 5| Unreal is partly open-source(not MIT or Apache).|
 | High-performance | 5 | 4 | 3 | 3| 2 |  |
 | Mature | 5 | 5 | 3 | 2| 1 | |
-| Rust | 1 | 1 | 1 | 5 | 5 |Only bevy is wrote with Rust.|
+| Rust | 1 | 1 | 1 | 5 | 5 | We have chose Rust as our programming language.|
 | Total | 15 | 12 | 17 | 20 | 18 | |
 
 So we choose bevy as our engine.
