@@ -5,7 +5,7 @@ After doing some research, we have those choices: Unreal, Unity, GoDot, Bevy or 
 
 #### Goals
 - Free
-- Open source
+- Open-source
 - High-performance
 - Mature
 - Wrote with Rust
