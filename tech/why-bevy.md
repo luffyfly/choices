@@ -24,4 +24,4 @@ Score: 5 is best and 1 is worse.
 | Total | 15 | 12 | 17 | 20 | 18 | |
 
 So we choose Bevy as our engine.
-By the way, Bevy's goals agree with ours very much. See [Why create Bevy?](https://bevyengine.org/learn/book/faq/#why-create-bevy-when-insert-game-engine-here-exists)
+By the way, Bevy's goals agree with ours very much. See [Why create Bevy?](https://bevyengine.org/learn/book/faq/#why-create-bevy-when-insert-game-engine-here-exists).
