@@ -1,4 +1,4 @@
-### Why do we use the multi-process architecture?
+### Why use the multi-process architecture?
 
 World Engine is a 3d content browser, so we can learn from web browsers like Chrome.
 
