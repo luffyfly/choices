@@ -17,7 +17,7 @@ With rust, wo have two choices for the js engine: Deno or Boa.
 | Debugging | 5 | 1 | Boa does not support debugging for now. |
 | WebAssembly | 5 | 1 |  Boa does not support WebAssembly for now. |
 | Size | 1 | 5 |  Deno(23.35) = deno(3.65 MB) + rusty_v8(19.7); Boa < 1MB |
-| Size | 21 | 13 | |
+| Size | 21 | 11 | |
 
 
 PS: We does not test the performance between Deno and Boa, because other reasons are enough to prove that Deno is better. 
