@@ -11,7 +11,7 @@ So we only have only two choices of C/C++ or Rust.
 - Mature
 - Easy to use
 
-#### Compare C/C++ and Rust
+#### Comparison
 Scores: 5 is best and 1 is worse.
 
 | Feature | C/C++ | Rust | Why|
