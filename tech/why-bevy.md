@@ -10,7 +10,7 @@ After doing some research, we have those choices: Unreal, Unity, GoDot, Bevy or 
 - Mature
 - Wrote with Rust
 
-#### Compare
+#### Comparison
 
 Score: 5 is best and 1 is worse.
 
