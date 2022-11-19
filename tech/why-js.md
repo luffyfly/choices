@@ -1,4 +1,4 @@
-### Why do we choose js as our programming language for the modding system?
+### Why use js as our scriting language for the modding system?
 - Web is the future. We must embrace Web technologies and support Web as one of our primary platforms.
 - JavaScript is one of the most popular langauges in the world, compared to lua(one of the common languages for modding).
 - JavaScript is easy to use, compared to Rust or C/C++.
