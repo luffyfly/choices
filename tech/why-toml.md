@@ -11,7 +11,7 @@ Scores: 5 is best and 1 is worse.
 | Feature | toml | ini | yaml | json | xml | Explain |
 | ----- | -- | -- | --- | -- | -- | ----- |
 | Simple |  4 | 5 | 3 | 3 | 2 | |
-| Powerfull | 4 | 2 | 4 | 4 | 5 | See [wiki](https://en.wikipedia.org/wiki/TOML) |
+| Powerful | 3 | 2 | 3 | 4 | 5 | See [wiki](https://en.wikipedia.org/wiki/TOML) |
 | Compatiable with Rust | 5 |  4 | 4 | 4 | 4 | Rust is born with `toml`. |
 
 So we choose `toml` as our config file format.
