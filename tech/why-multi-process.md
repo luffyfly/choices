@@ -1,8 +1,8 @@
-### Why use the multi-process architecture?
+## Why use the multi-process architecture?
 
-World Engine is a 3d content browser, so we can learn from web browsers like Chrome.
+World Engine can seen as a 3d content browser, so we can learn from web browsers like Chrome.
 
-#### The philosophy of Chrome
+### The philosophy of Chrome
 It's nearly impossible to build a rendering engine that never crashes or hangs.
 It's also nearly impossible to build a rendering engine that is perfectly secure.
 In some ways, the state of web browsers around 2006 was like that of the single-user, co-operatively multi-tasked operating systems of the past. 
