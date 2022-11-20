@@ -1,9 +1,9 @@
-### Why use Rust as our primary programming langauge?
+## Why use Rust as our primary programming langauge?
 
 To build 3d real-time applications, we must use a high-performance and low-level language which doesn't have a gc.
 So we only have only two choices of C/C++ or Rust.
 
-#### Goals
+### Goals
 
 - High-performance
 - Supporting WebAssembly well
@@ -11,7 +11,7 @@ So we only have only two choices of C/C++ or Rust.
 - Mature
 - Easy to use
 
-#### Comparison
+### Comparison
 Scores: 5 is best and 1 is worse.
 
 | Feature | C/C++ | Rust | Why|
