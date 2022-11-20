@@ -1,12 +1,12 @@
-### Why use toml as our config file format?
+## Why use toml as our config file format?
 
 After doing some research, I found four choices: toml, ini, yaml, json and xml from [this link](https://www.barenakedcoder.com/blog/2020/03/config-files-ini-xml-json-yaml-toml/).
 
-#### Goals
+### Goals
 - Simple
 - Powerfull
 - Compatiable with Rust
-#### Comparison
+### Comparison
 Scores: 5 is best and 1 is worse.
 | Feature | toml | ini | yaml | json | xml | Explain |
 | ----- | -- | -- | --- | -- | -- | ----- |
