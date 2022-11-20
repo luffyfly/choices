@@ -1,14 +1,14 @@
-### Why do we choose Deno as our js engine?
+## Why do we choose Deno as our js engine?
 With rust, wo have two choices for the js engine: Deno or Boa.
 
-#### Goals
+### Goals
 - Mature
 - High-performance
 - Supporting debugging
 - Supporting WebAssembly
 - Minimal-size
 
-#### Comparison
+### Comparison
 Sores: 5 is best and 1 is worse.
 
 | | Deno | Boa | Exlain |
