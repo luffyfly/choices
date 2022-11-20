@@ -1,16 +1,16 @@
-### Why bevy?
+## Why bevy?
 
 To build 3d realtime applications, we must choose an 3d engine or build an 3d engine.
 After doing some research, we have those choices: Unreal, Unity, GoDot, Bevy or build by ourselves.
 
-#### Goals
+### Goals
 - Free
 - Open-source
 - High-performance
 - Mature
 - Wrote with Rust
 
-#### Comparison
+### Comparison
 
 Score: 5 is best and 1 is worse.
 
