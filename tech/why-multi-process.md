@@ -10,5 +10,5 @@ As a misbehaving application in such an operating system could take down the ent
 All it took was one rendering engine or plug-in bug to bring down the entire browser and all of the currently running tabs.
 Modern operating systems are more robust because they put applications into separate processes that are walled off from one another.
 A crash in one application generally does not impair other applications or the integrity of the operating system, and each user's access to other users' data is restricted. 
-Chromium's architecture aims for this more robust design.
+Chromium's architecture aims for this more robust design. See [https://www.chromium.org/developers/design-documents/multi-process-architecture/](https://www.chromium.org/developers/design-documents/multi-process-architecture/)
 
